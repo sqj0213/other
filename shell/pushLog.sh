@@ -8,7 +8,7 @@ function help()
 {
 	echo "参数错误：\n"
 	echo "/bin/sh ./pushLog.sh v4 category rsyncAddr date hour"
-	echo "example: /bin/sh ./pushLog.sh v4 mweibo_newUser r2.data.sina.com.cn::PSO/bushu 20140719 01"
+	echo "example: /bin/sh ./pushLog.sh v4 mweibo_newUser host::PSO/bushu 20140719 01"
 	exit
 }
 
